@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+    padding: 0px;
+}
+.color1 {
+    height: 650px;
+    background-color: #FDBF6A;
+    border: whitesmoke solid;
+}
+.color2 {
+    height: 300px;
+    background-color:#C46B7D;
+    border: whitesmoke solid;
+}
+.color3 {
+    height: 450px;
+    background-color: #D95204;
+    border: whitesmoke solid;
+}
+.color4 {
+    height: 650px;
+    background-color:#A65746;
+    border: whitesmoke solid;
+}
